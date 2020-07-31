@@ -1,7 +1,3 @@
-/*
- * Hongyan Ji's Homework assignment
- */
-
 import java.util.Scanner;
 
 /*
