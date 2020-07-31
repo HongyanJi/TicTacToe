@@ -1,8 +1,4 @@
 /*
- * Hongyan Ji's Homework assignment
- */
-
-/*
  * This is the ComputerPlayer class used to generate ComputerPlayer objects to
  * represents a computer player. This class inherited from an abstract class Player.
  */
