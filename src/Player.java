@@ -1,8 +1,4 @@
 /*
- * Hongyan Ji's Homework assignment
- */
-
-/*
  * This is the abstract class Player, both ComputerPlayer and HumanPlayer classes
  * inherited from it
  */
