@@ -1,8 +1,4 @@
 /*
- * Hongyan Ji's Homework assignment
- */
-
-/*
  * This is the HumanPlayer class used to generate HumanPlayer objects to
  * represents a human player. This class inherited from an abstract class Player.
  */
