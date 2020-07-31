@@ -1,8 +1,4 @@
 /*
- * Hongyan Ji's Homework assignment
- */
-
-/*
  * This is the declaration of the Board class which represents the board used to play the TicTacToe game
  */
 public class Board {
